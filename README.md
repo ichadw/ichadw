@@ -2,6 +2,7 @@
 
 - :woman_technologist: I do javascript for a living 
 - live and based in :indonesia:
+- 🔭 I’m currently working at Ajaib
 
 <!--
 **ichadw/ichadw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
