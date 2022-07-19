@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :woman_technologist: I do javascript for a living 
+- :woman_technologist: I code for living 
 - live and based in :indonesia:
 - 🔭 I’m currently working at Ajaib
 
