@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - :woman_technologist: I code for living 
-- live and based in :indonesia:
-- 🔭 I’m currently working at Ajaib
+- Live and based in :indonesia:
+- 🌱 I’m currently building my own business through @karyaliana and @memoricaid. Wish me luck.
 
 <!--
 **ichadw/ichadw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
